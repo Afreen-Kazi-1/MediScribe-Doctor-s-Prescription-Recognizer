@@ -187,3 +187,4 @@ Open the notebook:
 `ML_MiniProjectCRNN.ipynb`
 
 Run all cells to train and evaluate the MediScribe OCR model.
+
